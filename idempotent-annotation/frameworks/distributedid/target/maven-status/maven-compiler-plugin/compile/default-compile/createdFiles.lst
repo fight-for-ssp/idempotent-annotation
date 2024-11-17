@@ -1,0 +1,13 @@
+org\opengoofy\index12306\framework\starter\distributedid\core\serviceid\ServiceIdGenerator.class
+org\opengoofy\index12306\framework\starter\distributedid\core\IdGenerator.class
+org\opengoofy\index12306\framework\starter\distributedid\handler\IdGeneratorManager.class
+org\opengoofy\index12306\framework\starter\distributedid\toolkit\SnowflakeIdUtil.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\AbstractWorkIdChooseTemplate.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\Snowflake.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\RandomWorkIdChoose.class
+org\opengoofy\index12306\framework\starter\distributedid\core\serviceid\DefaultServiceIdGenerator.class
+org\opengoofy\index12306\framework\starter\distributedid\config\DistributedIdAutoConfiguration.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\SnowflakeIdInfo$SnowflakeIdInfoBuilder.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\LocalRedisWorkIdChoose.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\SnowflakeIdInfo.class
+org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\WorkIdWrapper.class

@@ -1,0 +1,4 @@
+org\opengoofy\index12306\framework\starter\log\annotation\ILog.class
+org\opengoofy\index12306\framework\starter\log\core\ILogPrintDTO.class
+org\opengoofy\index12306\framework\starter\log\config\LogAutoConfiguration.class
+org\opengoofy\index12306\framework\starter\log\core\ILogPrintAspect.class

@@ -1,0 +1,10 @@
+org\opengoofy\index12306\framework\starter\convention\page\PageResponse$PageResponseBuilder.class
+org\opengoofy\index12306\framework\starter\convention\exception\RemoteException.class
+org\opengoofy\index12306\framework\starter\convention\exception\ClientException.class
+org\opengoofy\index12306\framework\starter\convention\errorcode\IErrorCode.class
+org\opengoofy\index12306\framework\starter\convention\page\PageResponse.class
+org\opengoofy\index12306\framework\starter\convention\exception\AbstractException.class
+org\opengoofy\index12306\framework\starter\convention\page\PageRequest.class
+org\opengoofy\index12306\framework\starter\convention\exception\ServiceException.class
+org\opengoofy\index12306\framework\starter\convention\result\Result.class
+org\opengoofy\index12306\framework\starter\convention\errorcode\BaseErrorCode.class

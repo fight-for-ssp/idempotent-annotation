@@ -1,0 +1,12 @@
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\serviceid\ServiceIdGenerator.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\IdGenerator.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\toolkit\SnowflakeIdUtil.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\handler\IdGeneratorManager.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\WorkIdWrapper.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\serviceid\DefaultServiceIdGenerator.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\LocalRedisWorkIdChoose.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\RandomWorkIdChoose.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\config\DistributedIdAutoConfiguration.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\AbstractWorkIdChooseTemplate.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\Snowflake.java
+D:\IDEA2023\project\12306\frameworks\distributedid\src\main\java\org\opengoofy\index12306\framework\starter\distributedid\core\snowflake\SnowflakeIdInfo.java
