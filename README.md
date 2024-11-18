@@ -44,7 +44,7 @@
         如果消息在消费中，抛出异常，消息会触发延迟消费，在消息队列消费失败的场景下即发送到重试队列 RETRY TOPIC。
 
         
-        ![image](https://github.com/user-attachments/assets/559f431f-30b0-408b-b2bc-689e91e22ed8)
+![image](https://github.com/user-attachments/assets/559f431f-30b0-408b-b2bc-689e91e22ed8)
 
 
 4、MQ幂等的处理逻辑：
